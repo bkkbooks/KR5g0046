@@ -1,0 +1,219 @@
+canonical_identifier: bkk:krp/KR5g0046/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0046/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三洞修道儀
+  date: '2015-08-29 02:49:27.671745'
+  source:
+    repository: kanripo
+    path: KR5g0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0046_000-CK-KZ-jye.yaml, hash: 'sha256:eb74a9bad9a7a26c1a49b4df45862a0c8f72dfd11035a6cf5110c570f8c2be01'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0046_000-CK-KZ-jye.markers.yaml, hash: 'sha256:2f739e00a51ae81c25516c5959466439c96df1cbcd45f0837ad48563d84978ec'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 742
+  label: 初入道儀
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 742
+    - 840
+  label: 洞神部道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 840
+    - 985
+  label: 高玄部道士(亦云高上紫虛)¶<md:KR5g0046_HFL_000-005b>
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 985
+    - 1114
+  label: 昇玄部道士¶<md:KR5g0046_HFL_000-006a>
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 1114
+    - 1257
+  label: 中盟洞玄部道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 1257
+    - 1411
+  label: 三洞部道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 1411
+    - 1674
+  label: 大洞部道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 1674
+    - 1742
+  label: 居山道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 1742
+    - 1810
+  label: 洞淵道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 1810
+    - 1930
+  label: 北帝太玄道士
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 1930
+    - 1989
+  label: 女官部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 1989
+    - 2151
+  label: 正一盟威女官¶<md:KR5g0046_HFL_000-009b>
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 2151
+    - 2189
+  label: 洞神女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 2189
+    - 2222
+  label: 高玄女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 2222
+    - 2264
+  label: 昇玄女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h17
+    span:
+    - body
+    - 2264
+    - 2318
+  label: 中盟女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h18
+    span:
+    - body
+    - 2318
+    - 2374
+  label: 三洞女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h19
+    span:
+    - body
+    - 2374
+    - 2440
+  label: 上清女官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0046_CK-KZ-jye_000-h20
+    span:
+    - body
+    - 2440
+    - 2479
+  label: 居山女道士
+  type: section
+  level: 2
+hash: sha256:a76f3777e44cadc47a68b68866db9970a3c904c75343d4200b8fc886044ccd5b

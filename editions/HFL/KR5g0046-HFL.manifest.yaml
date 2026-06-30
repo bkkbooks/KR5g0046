@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0046/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0046/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三洞修道儀
+  date: '2015-08-29 02:49:27.671745'
+  source:
+    repository: kanripo
+    path: KR5g0046
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0046_000-HFL.yaml, hash: 'sha256:cce90a587c1b83a54676c137736d05614aabf1cc595651aa40105f03cf95f9c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0046_000-HFL.markers.yaml, hash: 'sha256:c2153d3412e90d8127b1b918f10707cb6dada14e6d0cdf08c5eedc122d0b7741'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0046_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2573
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a88f214deb70883ef7062cc7cc94d9ff8f590d94c85be8708a0ee1e57643506b
